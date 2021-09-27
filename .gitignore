@@ -1,0 +1,20 @@
+# Created by Kazimir Korchyts 
+
+# Media files # 
+*.avi
+
+# Java special files #
+*.class
+
+#idea + java
+.idea/
+out/
+target/
+*.iml
+
+#log files
+*.log
+
+#Visual Paradigm
+*.bak*
+# end of Kazimir Korchyts
